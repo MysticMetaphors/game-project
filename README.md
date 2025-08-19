@@ -1,4 +1,4 @@
-# **Echoes of Another World**
+# **Either way**
 
 Kairo wakes up on a unfamiliar place, sunlight on his face. He has nothing—no weapons, no tools, and no memory of how he arrived. Yet, a strange certainty fills him: he knows he is here for a reason, even if he can’t remember the details. A faint pulse of purpose drives him forward.
 
@@ -77,7 +77,7 @@ No matter the path or ending, the story contains a final shocking revelation: Ka
 The ultimate question remains: **Will Kairo accept this fake reality or fight to break free?**
 
 
-# *Echoes of Another World – Text-Based Flowchart*
+# *Either Way – Text-Based Flowchart*
 
 
     [Prologue: Awakening]
